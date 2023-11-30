@@ -1,4 +1,4 @@
 ID,Hours,Remote,Course Name,Course Teacher,Course Area,Erased
 1,30,True,Python Basics,John Doe,Programming,True
-2,45,False,Data Science Fundamentals,Alice Smith,Data Science,False
+2,30,False,Geography,Bob Ross,Science,True
 3,20,True,Web Development,Emily Johnson,Web Development,True
