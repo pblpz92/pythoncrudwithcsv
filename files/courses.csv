@@ -1,4 +1,7 @@
-ID,Hours,Remote,Course Name,Course Teacher,Course Area,Erased
-1,30,True,Python Basics,John Doe,Programming,True
-2,30,False,Geography,Bob Ross,Science,True
-3,20,True,Web Development,Emily Johnson,Web Development,True
+ID,Hours,Remote,Course Name,Course Teacher,Course Area,Visible
+21,600,True,Soccer,CR7,Soccer,True
+22,600,True,Volley,CR7,Soccer,False
+23,600,True,Motorsport,CR7,Soccer,False
+24,600,True,Basket,CR7,Soccer,True
+29,560,True,cooking,Arguiano,Food,True
+66,123,True,Java101,Enrique,IT,True
